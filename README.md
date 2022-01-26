@@ -2,8 +2,9 @@
 
 - ⚙ Sou desenvolvedor Front-End;
 - 💻 Atualmente estou aprimorando minhas habilidades em JavaScript;
+- 💼 Estou trabalhando para empresa junior da minha faculdade (EJECT)
 
-<div align="center">
+<div align="center" display='flex'>
   <a href="https://github.com/pedropaulocg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropaulocg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaulocg&layout=compact&langs_count=7&theme=dark"/></div>
