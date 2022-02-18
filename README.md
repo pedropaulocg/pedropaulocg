@@ -1,7 +1,7 @@
 ## Olá! Me chamo Pedro Paulo 👋
 
 - ⚙ Sou desenvolvedor Front-End;
-- 💻 Atualmente estou aprimorando minhas habilidades em JavaScript;
+- 💻 Atualmente estou aprimorando minhas habilidades em MySQL;
 - 💼 Estou trabalhando para empresa junior da minha faculdade (EJECT)
 
 <div align="center" display='flex'>
