@@ -1,8 +1,7 @@
 ## Olá! Me chamo Pedro Paulo 👋
 
 - ⚙ Sou desenvolvedor Front-End;
-- 💻 Atualmente estou aprimorando minhas habilidades em MySQL;
-- 💼 Estou trabalhando para empresa junior da minha faculdade (EJECT)
+- 💼 Estou trabalhando para VectaX
 
 <div align="center" display='flex'>
   <a href="https://github.com/pedropaulocg">
