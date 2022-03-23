@@ -1,6 +1,7 @@
 ## Olá! Me chamo Pedro Paulo 👋
 
 - ⚙ Sou desenvolvedor Front-End;
+- 📚 Atualmente estou estudando Vue.JS
 - 💼 Estou trabalhando para VectaX
 
 <div align="center" display='flex'>
