@@ -1,8 +1,7 @@
 ## Hi!! My name is Pedro Paulo 👋
 
 - ⚙ I'm a fullstack developer;
-- 📚 Now i'm studying React and working with Vue.js and Express;
-- 💼 I work at Vectax.
+
 
 <div align="center" display='flex'>
   <a href="https://github.com/pedropaulocg">
